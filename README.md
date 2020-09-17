@@ -9,3 +9,7 @@ Basic introduction. Uses the mnist dataset (hand-drawn numbers) and does pattern
 ## Video 2
 
 Goes over how to load and use someone else's dataset. Uses the [Microsoft Kaggle Cats and Dogs Dataset](https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765).
+
+## Video 3
+
+Uses the dataset we made in video 2 to train a convolutional neural network
