@@ -1,6 +1,7 @@
 __pycache__/
 *.model
 kagglecatsanddogs_3367a/
-.vsscode/
+.vscode/
 X.pickle
 y.pickle
+logs/
