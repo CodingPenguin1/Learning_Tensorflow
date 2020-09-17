@@ -13,3 +13,11 @@ Goes over how to load and use someone else's dataset. Uses the [Microsoft Kaggle
 ## Video 3
 
 Uses the dataset we made in video 2 to train a convolutional neural network
+
+## Video 4
+
+Introduction to tensorboard
+
+## Video 5
+
+How to use tensorboard to determine params for net
